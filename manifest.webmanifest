@@ -1,0 +1,14 @@
+{
+  "name": "Propiedades Friedrich | CRM",
+  "short_name": "Friedrich CRM",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f2ea",
+  "theme_color": "#f7f2ea",
+  "icons": [
+    {
+      "src": "assets/friedrich-logo-light.jpg",
+      "type": "image/jpeg"
+    }
+  ]
+}
